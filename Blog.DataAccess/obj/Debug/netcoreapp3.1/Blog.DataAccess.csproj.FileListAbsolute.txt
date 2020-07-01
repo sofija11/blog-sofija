@@ -1,0 +1,13 @@
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.deps.json
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csprojAssemblyReference.cache
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfoInputs.cache
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.AssemblyInfo.cs
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.json
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.runtimeconfig.dev.json
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+D:\ICT\ASP\Blog\Blog.DataAccess\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.csproj.CopyComplete
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.dll
+D:\ICT\ASP\Blog\Blog.DataAccess\obj\Debug\netcoreapp3.1\Blog.DataAccess.pdb
