@@ -13,3 +13,18 @@ D:\ICT\ASP\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
 D:\ICT\ASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CopyComplete
 D:\ICT\ASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.dll
 D:\ICT\ASP\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.deps.json
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.dll
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Implementation.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.dll
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csprojAssemblyReference.cache
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfoInputs.cache
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.AssemblyInfo.cs
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.csproj.CopyComplete
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.dll
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Implementation\obj\Debug\netcoreapp3.1\Blog.Implementation.pdb

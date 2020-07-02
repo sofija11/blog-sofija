@@ -5161,11 +5161,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
+      "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
       "projectName": "Blog.Implementation",
-      "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
+      "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
       "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-      "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\obj\\",
+      "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5184,14 +5184,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj": {
-              "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj"
+            "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj": {
+              "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj"
             },
-            "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
-              "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
+            "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
+              "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
             },
-            "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
-              "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj"
+            "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+              "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj"
             }
           }
         }

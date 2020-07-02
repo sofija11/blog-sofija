@@ -17,7 +17,7 @@ using Blog.Implementation.Commands.Users;
 using Blog.Implementation.Commands.UserUseCase;
 using Blog.Implementation.Queries;
 using Blog.Implementation.Queries.Categories;
-using Blog.Implementation.Queries.Pictures;
+
 using Blog.Implementation.Queries.Users;
 using Blog.Implementation.Validators;
 using Blog.Implementation.Validators.Categories;
@@ -63,7 +63,7 @@ namespace Blog.Api.Core
             services.AddTransient<IGetUseCaseLogsQuery, EfGetUseCaseLogsQuery>();
             services.AddTransient<IGetCategoriesQuery, EfGetCategoriesQuery>();
             services.AddTransient<IGetOneCategoryQuery, EfGetOneCategoryQuery>();
-            services.AddTransient<IGetPicturesQuery, EfGetPicturesQuery>();
+           
 
 
             //validatori

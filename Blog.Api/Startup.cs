@@ -16,7 +16,7 @@ using Blog.Implementation.Email;
 using Blog.Implementation.Logging;
 using Blog.Implementation.Queries;
 using Blog.Implementation.Queries.Categories;
-using Blog.Implementation.Queries.Pictures;
+
 using Blog.Implementation.Queries.Users;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -64,7 +64,7 @@ namespace Blog.Api
             services.AddAutoMapper(typeof(EfGetCategoriesQuery).Assembly);
             services.AddAutoMapper(typeof(EfCreatePictureCommand).Assembly);
             services.AddAutoMapper(typeof(EfUpdatePictureCommand).Assembly);
-            services.AddAutoMapper(typeof(EfGetPicturesQuery).Assembly);
+            
 
         }
 

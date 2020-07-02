@@ -14,6 +14,10 @@ namespace Blog.Domain.Entities
         public virtual Category Category { get; set; }
 
         public virtual Picture Picture { get; set; }
+
+        public int CategoryId { get; set; }
+        public int UserId { get; set; }
+        
         public virtual ICollection<Comment> Comments { get; set; }
     }
 }

@@ -12,7 +12,7 @@ namespace Blog.Implementation.Profiles
         public PicturesProfile()
         {
             CreateMap<Picture, PictureDto>();
-            CreateMap<PictureDto,Picture> ();
+            CreateMap<PictureDto,Picture> ().ForMember(x => x.PictureSrc, opt => opt.Ignore());
         }
     }
 }

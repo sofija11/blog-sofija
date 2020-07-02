@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Folder Include="Queries\Pictures\" />
     <Folder Include="Searches\" />
   </ItemGroup>
 

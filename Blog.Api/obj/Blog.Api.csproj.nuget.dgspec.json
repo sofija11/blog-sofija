@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ICT\\ASP\\Blog\\Blog.Api\\Blog.Api.csproj": {}
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Api\\Blog.Api.csproj": {}
   },
   "projects": {
-    "D:\\ICT\\ASP\\Blog\\Blog.Api\\Blog.Api.csproj": {
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Api\\Blog.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.Api\\Blog.Api.csproj",
+        "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Api\\Blog.Api.csproj",
         "projectName": "Blog.Api",
-        "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Api\\Blog.Api.csproj",
+        "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Api\\Blog.Api.csproj",
         "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-        "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.Api\\obj\\",
+        "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,17 +30,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj"
               },
-              "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
               },
-              "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj"
               },
-              "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj"
               }
             }
           }
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj": {
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj",
+        "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj",
         "projectName": "Blog.Application",
-        "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj",
+        "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj",
         "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-        "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.Application\\obj\\",
+        "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -115,8 +115,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj"
               }
             }
           }
@@ -154,14 +154,14 @@
         }
       }
     },
-    "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj",
+        "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj",
         "projectName": "Blog.DataAccess",
-        "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj",
+        "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-        "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\obj\\",
+        "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -180,8 +180,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj"
               }
             }
           }
@@ -235,14 +235,14 @@
         }
       }
     },
-    "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj",
+        "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj",
         "projectName": "Blog.Domain",
-        "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj",
+        "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj",
         "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-        "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\obj\\",
+        "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -290,14 +290,14 @@
         }
       }
     },
-    "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj": {
+    "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
+        "projectUniqueName": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
         "projectName": "Blog.Implementation",
-        "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
+        "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\Blog.Implementation.csproj",
         "packagesPath": "C:\\Users\\Sofija\\.nuget\\packages\\",
-        "outputPath": "D:\\ICT\\ASP\\Blog\\Blog.Implementation\\obj\\",
+        "outputPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Implementation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -316,14 +316,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Application\\Blog.Application.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Application\\Blog.Application.csproj"
               },
-              "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.DataAccess\\Blog.DataAccess.csproj"
               },
-              "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
-                "projectPath": "D:\\ICT\\ASP\\Blog\\Blog.Domain\\Blog.Domain.csproj"
+              "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj": {
+                "projectPath": "D:\\ICT\\ASP\\BLOG SOFIJA\\Blog\\Blog.Domain\\Blog.Domain.csproj"
               }
             }
           }
