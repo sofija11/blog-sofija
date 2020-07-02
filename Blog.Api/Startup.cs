@@ -10,6 +10,7 @@ using Blog.DataAccess;
 using Blog.Implementation.Commands;
 using Blog.Implementation.Commands.Categories;
 using Blog.Implementation.Commands.Pictures;
+using Blog.Implementation.Commands.Posts;
 using Blog.Implementation.Commands.Users;
 using Blog.Implementation.Commands.UserUseCase;
 using Blog.Implementation.Email;
@@ -64,7 +65,8 @@ namespace Blog.Api
             services.AddAutoMapper(typeof(EfGetCategoriesQuery).Assembly);
             services.AddAutoMapper(typeof(EfCreatePictureCommand).Assembly);
             services.AddAutoMapper(typeof(EfUpdatePictureCommand).Assembly);
-            
+            services.AddAutoMapper(typeof(EfCreatePostCommand).Assembly);
+
 
         }
 

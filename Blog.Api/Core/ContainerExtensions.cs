@@ -2,6 +2,7 @@
 using Blog.Application.Commands;
 using Blog.Application.Commands.Category;
 using Blog.Application.Commands.Picture;
+using Blog.Application.Commands.Post;
 using Blog.Application.Commands.User;
 using Blog.Application.Commands.UserUseCase;
 using Blog.Application.Queries;
@@ -13,6 +14,7 @@ using Blog.DataAccess;
 using Blog.Implementation.Commands;
 using Blog.Implementation.Commands.Categories;
 using Blog.Implementation.Commands.Pictures;
+using Blog.Implementation.Commands.Posts;
 using Blog.Implementation.Commands.Users;
 using Blog.Implementation.Commands.UserUseCase;
 using Blog.Implementation.Queries;
@@ -22,6 +24,7 @@ using Blog.Implementation.Queries.Users;
 using Blog.Implementation.Validators;
 using Blog.Implementation.Validators.Categories;
 using Blog.Implementation.Validators.Pictures;
+using Blog.Implementation.Validators.Posts;
 using Blog.Implementation.Validators.Users;
 using Blog.Implementation.Validators.UserUseCases;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -55,6 +58,7 @@ namespace Blog.Api.Core
             services.AddTransient<ICreatePictureCommand, EfCreatePictureCommand>();
             services.AddTransient<IDeletePictureCommand, EfDeletePictureCommand>();
             services.AddTransient<IUpdatePictureCommand, EfUpdatePictureCommand>();
+            services.AddTransient<ICreatePostCommand, EfCreatePostCommand>();
             ///querii
             ///
 
@@ -76,6 +80,7 @@ namespace Blog.Api.Core
             services.AddTransient<DeleteCategoryValidator>();
             services.AddTransient<CreatePictureValidator>();
             services.AddTransient<DeletePictureValidator>();
+            services.AddTransient<CreatePostValidator>();
         }
         public static void AddApplicationActor(this IServiceCollection services)
         {

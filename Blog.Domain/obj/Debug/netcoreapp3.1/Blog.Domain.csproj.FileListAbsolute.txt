@@ -13,3 +13,4 @@ D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Domain\obj\Debug\netcoreapp3.1\Blog.Domain.Asse
 D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Domain\obj\Debug\netcoreapp3.1\Blog.Domain.AssemblyInfo.cs
 D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Domain\obj\Debug\netcoreapp3.1\Blog.Domain.dll
 D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Domain\obj\Debug\netcoreapp3.1\Blog.Domain.pdb
+D:\ICT\ASP\BLOG SOFIJA\Blog\Blog.Domain\obj\Debug\netcoreapp3.1\Blog.Domain.csprojAssemblyReference.cache
