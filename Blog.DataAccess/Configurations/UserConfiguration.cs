@@ -23,13 +23,18 @@ namespace Blog.DataAccess.Configurations
 
             builder.HasMany(u => u.Posts)
                 .WithOne(p => p.User)
-                .HasForeignKey(p => p.Id)
+                .HasForeignKey(p => p.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
 
             builder.HasMany(u => u.Comments)
                 .WithOne(u => u.User)
-                .HasForeignKey(u => u.Id)
+                .HasForeignKey(u => u.UserId)
                 .OnDelete(DeleteBehavior.Restrict);
+
+            builder.HasMany(u => u.PostsNew)
+               .WithOne(p => p.User)
+               .HasForeignKey(p => p.UserId)
+               .OnDelete(DeleteBehavior.Restrict);
         }
     }
 }

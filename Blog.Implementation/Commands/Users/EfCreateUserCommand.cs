@@ -28,7 +28,7 @@ namespace Blog.Implementation.Commands.Users
 
         public string Name => "Create User";
 
-        private IEnumerable<int> useCasesForUser = new List<int> {1,3, };
+        private IEnumerable<int> useCasesForUser = new List<int> {1,2,3};
         public void Execute(UserDto request)
         {
             validator.ValidateAndThrow(request);

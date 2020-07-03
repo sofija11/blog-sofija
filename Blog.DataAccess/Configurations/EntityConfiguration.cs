@@ -7,12 +7,11 @@ using System.Text;
 
 namespace Blog.DataAccess.Configurations
 {
-    public class CommentConfiguration : IEntityTypeConfiguration<Comment>
+    public class EntityConfiguration : IEntityTypeConfiguration<Entity>
     {
-        public void Configure(EntityTypeBuilder<Comment> builder)
+        public void Configure(EntityTypeBuilder<Entity> builder)
         {
-          
-            builder.Property(x => x.Text).IsRequired().HasMaxLength(200);
+            builder.Property(x => x.Id).ValueGeneratedOnAdd();
         }
     }
 }

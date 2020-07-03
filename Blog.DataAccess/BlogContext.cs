@@ -17,7 +17,9 @@ namespace Blog.DataAccess
             modelBuilder.ApplyConfiguration(new CategoryConfigurations());
             modelBuilder.ApplyConfiguration(new PictureConfiguration());
             modelBuilder.ApplyConfiguration(new CommentConfiguration());
-            modelBuilder.ApplyConfiguration(new PostConfiguration());
+           modelBuilder.ApplyConfiguration(new PostConfiguration());
+            modelBuilder.ApplyConfiguration(new PostNewConfiguration());
+
 
 
 
@@ -55,7 +57,7 @@ namespace Blog.DataAccess
         }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-V3ET5KE\SQLEXPRESS;Initial Catalog=BlogBaza;Integrated Security=True;Pooling=False");
+            optionsBuilder.UseSqlServer(@"Data Source=DESKTOP-V3ET5KE\SQLEXPRESS;Initial Catalog=ajde;Integrated Security=True");
             base.OnConfiguring(optionsBuilder);
         }
         public DbSet<User> Users { get; set; }
@@ -68,6 +70,7 @@ namespace Blog.DataAccess
         public DbSet<Post> Posts { get; set; }
         public DbSet<Picture> Pictures { get; set; }
         public DbSet<Comment> Comments { get; set; }
+        public DbSet<PostNew> PostNews { get; set; }
 
 
 

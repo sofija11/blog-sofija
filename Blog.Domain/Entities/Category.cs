@@ -9,5 +9,7 @@ namespace Blog.Domain.Entities
         public string Name { get; set; }
 
         public virtual ICollection<Post> Posts { get; set; }
+        public virtual ICollection<PostNew> PostsNew { get; set; }
+
     }
 }

@@ -17,5 +17,6 @@ namespace Blog.Domain.Entities
         public virtual ICollection<UserUseCases> UserUseCases { get; set; }
         public virtual ICollection<Post>  Posts { get; set; }
         public virtual ICollection<Comment> Comments { get; set; }
+        public virtual ICollection<PostNew> PostsNew { get; set; }
     }
 }

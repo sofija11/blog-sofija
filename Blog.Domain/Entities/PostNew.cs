@@ -4,9 +4,8 @@ using System.Text;
 
 namespace Blog.Domain.Entities
 {
-    public class Post : Entity
+   public class PostNew : Entity
     {
-
         public string Name { get; set; }
 
         public string Text { get; set; }
@@ -18,7 +17,7 @@ namespace Blog.Domain.Entities
 
         public int CategoryId { get; set; }
         public int UserId { get; set; }
-        
-        public virtual ICollection<Comment> Comments { get; set; }
+
+        //public virtual ICollection<Comment> Comments { get; set; }
     }
 }

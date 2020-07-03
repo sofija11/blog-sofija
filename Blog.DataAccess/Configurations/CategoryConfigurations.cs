@@ -15,7 +15,13 @@ namespace Blog.DataAccess.Configurations
 
             builder.HasMany(p => p.Posts)
                 .WithOne(c => c.Category)
-                .HasForeignKey(p => p.Id)
+                .HasForeignKey(p => p.CategoryId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+
+            builder.HasMany(p => p.PostsNew)
+                .WithOne(c => c.Category)
+                .HasForeignKey(p => p.CategoryId)
                 .OnDelete(DeleteBehavior.Restrict);
         }
     }

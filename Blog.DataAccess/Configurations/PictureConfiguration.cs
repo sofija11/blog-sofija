@@ -11,6 +11,7 @@ namespace Blog.DataAccess.Configurations
     {
         public void Configure(EntityTypeBuilder<Picture> builder)
         {
+
             builder.Property(p=>p.PictureSrc)
                 .IsRequired()
                 .HasMaxLength(100);

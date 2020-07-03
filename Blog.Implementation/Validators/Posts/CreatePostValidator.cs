@@ -12,7 +12,7 @@ namespace Blog.Implementation.Validators.Posts
     {
         public CreatePostValidator(BlogContext context)
         {
-            RuleFor(x => x.Name).NotEmpty().Must(x => !context.Posts.Any(name => name.Name == x))
+           RuleFor(x => x.Name).NotEmpty().Must(x => !context.Posts.Any(name => name.Name == x))
                 .WithMessage("Name already exists");
             RuleFor(x => x.Text).NotEmpty().MaximumLength(255);
 
